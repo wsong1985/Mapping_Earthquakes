@@ -7,7 +7,3 @@
 ### (2) Adding the majot earthquakes with magnitude greater than 4.5 to the earthquake map.
 
 ### (3) Adding a thrid map style to the earthquake map.
-
-## **Website**
-
-- 
